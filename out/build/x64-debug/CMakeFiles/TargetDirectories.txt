@@ -1,0 +1,3 @@
+C:/Users/Utente/Desktop/Programming/c-c++/dphwtd/out/build/x64-debug/CMakeFiles/dphwtd.dir
+C:/Users/Utente/Desktop/Programming/c-c++/dphwtd/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utente/Desktop/Programming/c-c++/dphwtd/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
