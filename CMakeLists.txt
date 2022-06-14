@@ -2,7 +2,7 @@
 
 project("dphwtd")
 
-file(GLOB SRCS "src/*.cpp")
-add_executable(dphwtd ${SRCS})
+file(GLOB MODS "src/*.ixx")
+add_executable(dphwtd "src/main.cpp" ${MODS})
 
 set_property(TARGET dphwtd PROPERTY CXX_STANDARD 20)
